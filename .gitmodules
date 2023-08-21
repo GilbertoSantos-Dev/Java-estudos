@@ -1,0 +1,3 @@
+[submodule "Baralho"]
+	path = Baralho
+	url = git@github.com:GilbertoSantos-Dev/Baralho.git
